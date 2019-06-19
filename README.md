@@ -1,6 +1,6 @@
 # Chatkit Multiple Attachments
 
-Send multiple attachments with Chatkit. Tutorial:
+Send multiple attachments with Chatkit. Tutorial: https://pusher.com/tutorials/multiple-attachments-chatroom
 
 ## Getting Started
 
